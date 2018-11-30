@@ -1,2 +1,2 @@
-# Consultar-Clubes
-Certamen 1 de vb.NET
+# Consultar de clubes
+Certamen uno de vb.NET
